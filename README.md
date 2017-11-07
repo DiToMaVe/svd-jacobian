@@ -1,9 +1,9 @@
 # svd-jacobian
 
 DESCRIPTION:
-      Computation of  the Jacobian of the Singular Value Decomposition (SVD) for complex- and real-valued matrices. This task can be done       based on analytical expressions or using numerical differentiation based on finite differences.
+Computation of  the Jacobian of the Singular Value Decomposition (SVD) for complex- and real-valued matrices. This task can be done       based on analytical expressions or using numerical differentiation based on finite differences.
 
-      The file 'example_svd_jacobian.m' contains some examples compairing the analytical method with the numerical method.
+The file 'example_svd_jacobian.m' contains some examples compairing the analytical method with the numerical method.
     
 REFERENCES:
     ``Unbiased Risk Estimates for Singular Value Thresholding''
