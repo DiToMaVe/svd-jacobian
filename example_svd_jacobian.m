@@ -1,5 +1,4 @@
-clear all
-clc
+clear all, close all, clc
 
 % Create random low-rank matrix with m>n
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
