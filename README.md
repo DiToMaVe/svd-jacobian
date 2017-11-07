@@ -1,2 +1,2 @@
 # svd-jacobian
-Estimate the Jacobian of the singular value decomposition
+Estimate the Jacobian of the singular value decomposition.
